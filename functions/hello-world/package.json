@@ -1,0 +1,18 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "prettier": "^3.6.2"
+  },
+  "dependencies": {
+    "@aws-sdk/client-sts": "^3.859.0",
+    "@google-cloud/functions-framework": "^4.0.0",
+    "google-auth-library": "^10.2.1",
+    "winston": "^3.17.0"
+  },
+  "prettier": {
+    "printWidth": 120,
+    "singleQuote": false,
+    "trailingComma": "es5",
+    "semi": true
+  }
+}
